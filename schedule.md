@@ -27,5 +27,5 @@ Legend:
 |    14    | 05/04 |    Statistical Data Privacy   |              differential privacy, sensitivity               |          |     *PA6 assigned*        |
 |    15    | 05/09 |    Data Flows, Lifecyles, Data Markets    |     provenance, right to be forgotten, data portability, data brokers, data ownership, value of data, data unions, cooperatives, strikes      |   ***Reading 7*** . Edith Ramirez, Julie Brill, Maureen K. Ohlhausen, Joshua D. Wright, Terrell McSweeny [Data Brokers: A call for transparency and accountability](https://www.ftc.gov/system/files/documents/reports/data-brokers-call-transparency-accountability-report-federal-trade-commission-may-2014/140527databrokerreport.pdf). *Federal Trade Commission*, May, 2014 (Read Executive Summary and then Section 4 "Types of Products")   |     *PA4 due* *R6 due* *R7 assigned*    |
 |    16    | 05/11 |  Course Summary    | summary and discussion |          |          *PA6 due*           |
-|    17    | 05/16 |  Workshop for poster presentation     |              data unions, cooperatives, strikes              |          |           *SR due* *R7 due*           |
+|    17    | 05/16 |  Workshop for poster presentation     |       |          |           *SR due* *R7 due*           |
 |    18    | 05/18 |  Poster Presentation     |       |          |             |
