@@ -16,22 +16,22 @@ Through the combination of these four, students who complete the course will lea
 
 **Office Hours:** You can use office hours to discuss any topic we cover in class. [TBD]
 
-**Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/49358) We use Canvas mostly for announcements. All other relevant information is here.
+**Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/49358). We use Canvas mostly to link to this page, and sometimes for announcements.
 
-**Offline/Asynchronous discussion:** We will use [Ed](https://edstem.org/us/courses/37906)) for offline discussion. See the expectations on how to use Ed below.
+**Offline/Asynchronous discussion:** We will use [Ed](https://edstem.org/us/courses/37906) for offline discussion and for announcements. See the expectations on how to use Ed below.
  
 ### Schedule
 
 The schedule [is available here](schedule.md).
 
-The schedule includes lecture topics, readings, as well as the dates where all assignments will be released and due. Make sure to check the schedule often, as I expect there will be some adjustments to the dates throughout the quarter.
+The schedule includes a brief description of lecture topics, and it includes readings and dates where assignments are released and due. Check the schedule often as I expect there will be some adjustments to the dates throughout the quarter.
 
 ### Grading
 
-- **Reading Responses (7 in total. 2% each. Total 14%)** We will assign readings each week. At the end of the week we will ask a question about the readings and ask you to provide a brief answer. There are two dedicated discussion sections throughout the quarter where we will discuss the most interesting reading responses. There is a strict no-extension policy. *We plan to share your answers with other students and instructors in the class. Let us know if you have concerns about this. No answer will be released in future courses or with people external to the class.*
+- **Reading Responses (7 in total. 2% each. Total 14%)** We will assign readings each week. At the end of the week we will ask a question about the readings and ask you to provide a brief answer. There is a dedicated discussion section during the quarter where we will discuss the most interesting reading responses. There is a strict no-extension policy. *We plan to share your answers with other students and instructors in the class. Let us know if you have concerns about this. No answer will be released in future courses or with people external to the class.*
 - **Programming Assignment (1 in total, 15%).** The programming assignment is an important component of your grade. You work on this individually, but you can discuss high-level ideas with other classmates. Your grade is based on the deliverables and a quiz delivered via gradescope. There is a strict no-extension policy.
 - **Data Science Project (1 in total, 10%)** In this project, you will work towards investigating a research question. You are responsible for designing the experiments necessary to answer the question, writing software and other artifacts (e.g., user studies) needed to collect the data, perform the analysis, and write a report with your findings. There is one deadline and no extensions granted.
-- **Individual Quarter-Long Project (50%)** The most important component of your grade. You will engage in a quarter-long individual project. You will deliver a short report and present your work to the class and invited guests during a poster session at the end of the quarter. The project will be graded with respect to: i) successfully showing weekly progress via a project report ii) peer assessment iii) faculty committee assessment iv) written report v) poster presentation vi) quality of content. 
+- **Individual Quarter-Long Project (50%)** The most important component of your grade. You will engage in a quarter-long individual project. You will deliver a short report and present your work to the class and invited guests during a poster session at the end of the quarter. The project will be graded with respect to: i) weekly progress reports ii) peer assessment iii) faculty committee assessment iv) written report v) poster presentation vi) quality of content. 
 - **Issue Report (8%)** At the beginning of the quarter we will ask you to prepare a brief report on a topic related to the content of the class, which you deliver at the end.
 - **Class Participation (3%).** A small part of your grade comes from participation. If your grade ends up on a border between two grades (e.g. B+ and A-) this can sway your grade. Participation can be earned in several ways: i) being active on Ed, i.e., answering and commenting on questions (asking questions on Campuswire does not count) ii) actively engaging in discussion and asking questions in class.
 
