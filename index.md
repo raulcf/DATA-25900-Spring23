@@ -14,7 +14,7 @@ Through the combination of these four, students who complete the course will lea
 
 **Prerequisites:** CMSC/DATA 11900
 
-**Office Hours:** You can use office hours to discuss any topic we cover in class. Zhiru OH: Monday 10:30-11:30am and Friday 2:30pm-3:30pm (Zhiru will announce the location for each session on Ed). Raul OH: Tuesday 1pm (JCL 245).
+**Office Hours:** You can use office hours to discuss any topic we cover in class. Zhiru OH: Monday 10:30-11:30am and Friday 2:30pm-3:30pm (Zhiru will announce the location for each session on Ed). Raul OH: Tuesday 1pm (JCL 245) and Thursday after class.
 
 **Canvas Site:** Go [here](https://canvas.uchicago.edu/courses/49358). We use Canvas mostly to link to this page, and sometimes for announcements.
 
